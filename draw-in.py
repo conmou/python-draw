@@ -2,7 +2,7 @@ import turtle
 
 turtle.bgcolor("black")
 turtle.pencolor("white")
-turtle.width(23)
+turtle.pensize(20)
 turtle.penup()
 turtle.goto(160, -100)
 turtle.pendown()
